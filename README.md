@@ -11,3 +11,6 @@ Development: npm start
 
 Build: npm run build
 
+## Features
+
+Basic index html and webpack configuration. You can start developing after installation.
